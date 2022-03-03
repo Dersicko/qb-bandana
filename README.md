@@ -10,6 +10,7 @@ Items:
     ["cripsbandana"] 	 		     = {["name"] = "cripsbandana", 	  	  	        ["label"] = "crips bandana", 	        ["weight"] = 500, 		["type"] = "item", 		["image"] = "cripsbandana.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = ""},
     ["whitebandana"] 	 		     = {["name"] = "whitebandana", 	  	  	        ["label"] = "white bandana", 	        ["weight"] = 500, 		["type"] = "item", 		["image"] = "whitebandana.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = ""},
     ["blackbandana"] 	 		     = {["name"] = "blackbandana", 	  	  	        ["label"] = "black bandana", 	        ["weight"] = 500, 		["type"] = "item", 		["image"] = "blackbandana.png", 	    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = ""},
-    ["orangebandana"] 	 		     = {["name"] = "orangebandana", 	  	  	    ["label"] = "orange bandana", 	        ["weight"] = 500, 		["type"] = "item", 		["image"] = "orangebandana.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = ""},```
+    ["orangebandana"] 	 		     = {["name"] = "orangebandana", 	  	  	    ["label"] = "orange bandana", 	        ["weight"] = 500, 		["type"] = "item", 		["image"] = "orangebandana.png", 		["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = ""},
+```
 
 ![097054-Untitled-1](https://user-images.githubusercontent.com/44878760/156477730-34fef73c-4a95-4d1b-8811-c23176542292.jpg)
